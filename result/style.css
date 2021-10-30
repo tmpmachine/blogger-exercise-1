@@ -1,0 +1,11 @@
+body {
+  font-family: Sans-Serif;
+  line-height: 1.5rem;
+}
+a {
+  text-decoration: none;
+  color: hotpink;
+}
+a:hover {
+  text-decoration: underline;
+}
